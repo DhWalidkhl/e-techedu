@@ -20,9 +20,8 @@ body{
     background: black;
     opacity: .6;
 }
-.institute-img{
-    height: 90vh;
-    width: 250vh;
+.info-img img{
+    margin-left: -.7rem;
 }
 
 .institute-info{
